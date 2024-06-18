@@ -23,22 +23,39 @@ Safe Airlines:
 Airlines with zero fatalities in both periods (1985-1999 and 2000-2014):
 
 Aer Lingus
+
 Aerolineas Argentinas
+
 Air Canada
+
 Alaska Airlines
+
 Austrian Airlines
+
 Cathay Pacific
+
 Condor
+
 COPA
+
 Finnair
+
 Hawaiian Airlines
+
 KLM
+
 Lufthansa
+
 Qantas
+
 SAS
+
 Southwest Airlines
+
 TAP - Air Portugal
+
 Virgin Atlantic .
+
 These airlines had no fatalities during the periods analyzed, indicating a strong safety record.
 
 Risky Airlines:

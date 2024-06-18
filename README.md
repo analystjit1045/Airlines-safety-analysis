@@ -1,4 +1,5 @@
 # Airlines-safety-analysis 
+Exploratory Analysis about the safety issue of different Airlines
 # Recommendations 
 1. Safety Improvements: The queries identify airlines with high fatalities and incident rates. These airlines should be prioritized for safety audits, training programs, and infrastructure upgrades to enhance passenger safety.
 

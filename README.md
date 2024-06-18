@@ -18,3 +18,43 @@ Exploratory Analysis about the safety issue of different Airlines
 8. Regulatory Oversight: Aviation regulatory authorities should use the insights from these queries to prioritize audits, inspections, and enforcement actions for airlines with concerning safety records or incident rates.
 
 These recommendations aim to improve aviation safety, optimize operations, and foster a culture of continuous improvement within the airline industry.
+Safe Airlines:
+
+Airlines with zero fatalities in both periods (1985-1999 and 2000-2014):
+
+Aer Lingus
+Aerolineas Argentinas
+Air Canada
+Alaska Airlines
+Austrian Airlines
+Cathay Pacific
+Condor
+COPA
+Finnair
+Hawaiian Airlines
+KLM
+Lufthansa
+Qantas
+SAS
+Southwest Airlines
+TAP - Air Portugal
+Virgin Atlantic .
+These airlines had no fatalities during the periods analyzed, indicating a strong safety record.
+
+Risky Airlines:
+
+Airlines with the highest number of fatalities between 1985-1999:
+
+
+China Airlines (535 fatalities)
+Japan Airlines (520 fatalities)
+Korean Air (425 fatalities)
+Avianca (323 fatalities)
+Thai Airways (308 fatalities)
+
+
+
+
+
+
+
